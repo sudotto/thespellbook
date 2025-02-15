@@ -1,2 +1,2 @@
-# wizard-tongue-translator
-translator for wizard tongue
+# The Spell Book!
+translate wizard speak
